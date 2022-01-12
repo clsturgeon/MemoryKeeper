@@ -4,6 +4,10 @@ Memory Keeper enables the user to capture sources and generate source citations,
 
 >Capture and cross-reference your research and conclusions with your research papers and e-books.
 
+# Getting Started
+
+Get started [here.](https://craigsturgeon.com/mk/help/mkhelp.html)
+
 ## Uses
 
 Memory Keeper is a Wiki, currently an experiemental project in TiddlyWiki, providing a tool to capture research information and conclusions. Memory Keeper is not software you install. Rather, being built into TiddlyWiki, you can use a Browser to view and edit your data.
