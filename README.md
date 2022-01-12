@@ -32,10 +32,10 @@ Memory Keeper is not currently available in a TiddlyWiki a plugin. Rather, Memor
 * add supporting information
   - notes
   - media
-      -- photographs
-      -- photo essays (slideshows)
-      -- video
-      -- audio
+      - photographs
+      - photo essays (slideshows)
+      - video
+      - audio
    - add and track tribes
    - quotes
    - definitions
@@ -56,7 +56,7 @@ Memory Keeper is not currently available in a TiddlyWiki a plugin. Rather, Memor
   - add citation markers to your paper / book.
   - auto generate end notes and bibilography.
   - add various book elements (example: book covers, introduction)
-  -- associate in your writing, to people, events and places.  In this way, when you review a person, event or place you can see where in your writing you referenced that person, event or place.
+  - associate in your writing, to people, events and places.  In this way, when you review a person, event or place you can see where in your writing you referenced that person, event or place.
   - export book chapters, StyleSheets so they can be imported into an e-pub file.
 
 
