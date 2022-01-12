@@ -4,7 +4,7 @@ Memory Keeper enables the user to capture sources and generate source citations,
 
 >Capture and cross-reference your research and conclusions with your research papers and e-books.
 
-# Getting Started
+## Getting Started
 
 Get started [here.](https://craigsturgeon.com/mk/help/mkhelp.html)
 
