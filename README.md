@@ -21,43 +21,42 @@ Memory Keeper is not currently available in a TiddlyWiki a plugin. Rather, Memor
   - associate people, events, places, sources, etc to any task.
 * capture a research journal entries - associate each entry to people, events, etc.
 * capture sources
-   ** sources can be associated with people, events, places
-   ** track which sources are new (default), under currect review and complete.
+   - sources can be associated with people, events, places
+   - track which sources are new (default), under currect review and complete.
 * identify various evidence in each source
 * create assertion entries to capture written statements and summaries of conclusions based on the evidence
 * generate conclusion entries 
-   ** people
-   ** events
-   ** places
-   ** 
+   - people
+   - events
+   - places
 * add supporting information
-  ** notes
-  ** media
-      *** photographs
-      *** photo essays (slideshows)
-      *** video
-      *** audio
-   ** add and track tribes
-   ** quotes
-   ** definitions
-   ** occupations
-   ** objects
-   ** vehicles (e.g. ships, cars)
+  - notes
+  - media
+      -- photographs
+      -- photo essays (slideshows)
+      -- video
+      -- audio
+   - add and track tribes
+   - quotes
+   - definitions
+   - occupations
+   - objects
+   - vehicles (e.g. ships, cars)
 * generate charts
 * capture resources
-   ** research aids
-   ** literature
-   ** search databases
+   - research aids
+   - literature
+   - search databases
 * export ancestors of a specific individual (0.0.06)
-  ** for import into another instance of Memory Keeper
-  ** includes people, events, places, sources and notes.
+  - for import into another instance of Memory Keeper
+  - includes people, events, places, sources and notes.
 
 * write a research paper, books.
-  ** using built-in StyleSheets or add your own custom StyleSheets for format an e-book.
-  ** add citation markers to your paper / book.
-  ** auto generate end notes and bibilography.
-  ** add various book elements (example: book covers, introduction)
-  ** associate in your writing, to people, events and places.  In this way, when you review a person, event or place you can see where in your writing you referenced that person, event or place.
-  ** export book chapters, StyleSheets so they can be imported into an e-pub file.
+  - using built-in StyleSheets or add your own custom StyleSheets for format an e-book.
+  - add citation markers to your paper / book.
+  - auto generate end notes and bibilography.
+  - add various book elements (example: book covers, introduction)
+  -- associate in your writing, to people, events and places.  In this way, when you review a person, event or place you can see where in your writing you referenced that person, event or place.
+  - export book chapters, StyleSheets so they can be imported into an e-pub file.
 
 
