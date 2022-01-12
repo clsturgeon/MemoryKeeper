@@ -6,7 +6,7 @@ Memory Keeper enables the user to capture sources and generate source citations,
 
 ## Getting Started
 
-Get started [here.](https://craigsturgeon.com/mk/help/mkhelp.html)
+Get started [here.](http://craigsturgeon.com/mk/help/mkhelp.html)
 
 ## Uses
 
