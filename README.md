@@ -6,27 +6,26 @@ Memory Keeper enables the user to capture sources and generate source citations,
 
 ## Getting Started
 
-Get started [here.](http://craigsturgeon.com/mk/help/mkhelp.html)
+Get started [here.](https://clsturgeon.github.io/MemoryKeeper/)
 
 ## Uses
 
-Memory Keeper is a Wiki, currently an experiemental project in TiddlyWiki, providing a tool to capture research information and conclusions. Memory Keeper is not software you install. Rather, being built into TiddlyWiki, you can use a Browser to view and edit your data.
+Memory Keeper is a Wiki, currently an experimental project in TiddlyWiki, providing a tool to capture research information and conclusions. Memory Keeper is not software you install. Rather, being built into TiddlyWiki, you can use a browser to view and edit your data.
 
-This means there are a numerous platforms you can use.
+This means there are numerous platforms you can use.
 
 Memory Keeper was designed for genealogical research. However, it is ideal for various types of research.
 
-Memory Keeper is not currently available in a TiddlyWiki a plugin. Rather, Memory Keeper is supplied as complete solution that requires various plugins and themes (provided in the solution). This does prelude the user from adding more plugins or further configure Tiddlywiki for there needs.
-
+Memory Keeper is not currently available in a TiddlyWiki plugin. Rather, Memory Keeper is supplied as a complete solution that requires various plugins and themes (provided in the solution).
 
 ## Features
 
 * capture and track projects and tasks.
   - associate people, events, places, sources, etc to any task.
-* capture a research journal entries - associate each entry to people, events, etc.
+* capture research journal entries - associate each entry to people, events, etc.
 * capture sources
    - sources can be associated with people, events, places
-   - track which sources are new (default), under currect review and complete.
+   - track which sources are new (default), under current review and complete.
 * identify various evidence in each source
 * create assertion entries to capture written statements and summaries of conclusions based on the evidence
 * generate conclusion entries 
